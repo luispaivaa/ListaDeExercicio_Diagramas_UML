@@ -8,7 +8,7 @@ O foco desta atividade é a identificação de **Classes, Atributos, Métodos e 
 
 ## 📋 Sobre a Disciplina
 * **Instituição:** Centro Universitário de João Pessoa (UNIPÊ)
-* **Curso:** Bacharelado em Ciência da Computação
+* **Cursos:** Ciência da Computação e Análise e Desenvolvimento de Sistemas
 * **Tema Central:** Modelagem UML e Análise Orientada a Objetos
 
 ---
@@ -43,7 +43,7 @@ A lista é composta por 11 exercícios que abrangem desde casos simples até her
 
 ## 💻 Organização do Projeto
 Os arquivos de resolução seguem a seguinte estrutura:
-* `Questao 1/`: Contém os diagramas e especificações da Questão 1.
+* `Questao 1/`: Contém o diagrama de classes, requistos funcionais e não funcionais e a aplicação em Python, referente a Questão 1.
 * `LICENSE`: Termos de uso do repositório.
 
 ---
